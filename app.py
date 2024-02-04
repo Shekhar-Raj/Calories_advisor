@@ -9,7 +9,7 @@ import os
 from PIL import Image
 import pdf2image
 import google.generativeai as genai
-##genai.configure(api_key=os.environ["AAIzaSyDUnvdAr17Xibdx8MFU4jaqw2sBkTyO_EU"])
+##genai.configure(api_key=os.environ["GOOGLE API KEY"])
 
 ##model = genai.GenerativeModel('gemini-pro')
 

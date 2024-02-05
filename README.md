@@ -1,4 +1,3 @@
-![7f6ccaff-2534-4f01-b1dc-797fbcb569c0](https://github.com/Shekhar-Raj/Calories_advisor/assets/107785122/80fd4eb0-08ad-4258-8c73-f981e5fe9b11)
 
 
 
